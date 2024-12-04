@@ -1,0 +1,12 @@
+{
+    "player": {
+        "health": 100.0,
+        "transform": [
+            -14.79876708984375,
+            -5.314258575439453
+        ],
+        "bombNumber": 1,
+        "fertilizerNumber": 1,
+        "dieselNumber": 0
+    }
+}
